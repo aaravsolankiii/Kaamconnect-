@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "full_name": "aayush",
+    "phone": "0123456789",
+    "email": "aayush@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "created_at": "2025-12-03T18:56:42.039230",
+    "updated_at": "2025-12-03T18:56:42.039230",
+    "status": "active",
+    "rating": 0,
+    "skills": [],
+    "experience_years": 0,
+    "completed_jobs": 0,
+    "availability": true,
+    "daily_wage": 0
+  }
+]
